@@ -1,0 +1,1 @@
+Configurar el potenciómetro para una señal de ~2.5V
